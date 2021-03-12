@@ -1,0 +1,191 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil ;}}
+{\info {\author Attaullah Shah}{\company IMSciences}{\title .}}
+\deflang1033\plain
+{\footer\pard\qc\plain\f0\chpgn\par}
+{
+{\b\qc\line  }{\par}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (1)             (2)             (3)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { ln_ingr         ln_ingr         ln_ingr   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {b                                                           }\line
+\fs20 {_cons               4.638***        4.952***        4.952***}\line
+\fs20 {                 (145.94)        (130.01)        (130.01)   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { alpha                                                       }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { _cons               0.222***        0.321***        0.321***}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (15.15)         (17.56)         (17.56)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {beta                                                        }\line
+\fs20 {_cons               0.107***        0.101***        0.101***}\line
+\fs20 {                  (72.41)         (54.73)         (54.73)   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { sigma                                                       }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { _cons             0.00515***       0.0101***       0.0101***}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (5.97)          (9.79)          (9.79)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {N                   20817           12308           12308   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { t statistics in parentheses}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { * p<0.05, ** p<0.01, *** p<0.001}\cell
+\row}
+
+
+{\b\qc\line  }{\par}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (1)             (2)             (3)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {vidlab            0.00391***      0.00526***      0.00526***}\line
+\fs20 {                  (12.87)         (13.38)         (13.38)   }\line
+\fs20 {expe               0.0234***       0.0293***       0.0293***}\line
+\fs20 {                  (16.31)         (16.19)         (16.19)   }\line
+\fs20 {años_edu           0.102***       0.0904***       0.0904***}\line
+\fs20 {                  (67.48)         (49.57)         (49.57)   }\line
+\fs20 {expe_2          -0.000238***    -0.000323***    -0.000323***}\line
+\fs20 {                 (-13.72)        (-15.08)        (-15.08)   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { N                   20817           12308           12308   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {t statistics in parentheses}\line
+\fs20 {* p<0.05, ** p<0.01, *** p<0.001}\line
+
+
+{\b\qc\line  }{\par}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (1)             (2)             (3)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { ln_ingr         ln_ingr         ln_ingr   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {b                                                           }\line
+\fs20 {_cons               4.638***        4.952***        4.145***}\line
+\fs20 {                 (145.94)        (130.01)         (79.52)   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { alpha                                                       }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { _cons               0.222***        0.321***       0.0920***}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (15.15)         (17.56)          (4.14)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {beta                                                        }\line
+\fs20 {_cons               0.107***        0.101***        0.123***}\line
+\fs20 {                  (72.41)         (54.73)         (51.98)   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { sigma                                                       }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { _cons             0.00515***       0.0101***     -0.00140   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (5.97)          (9.79)         (-0.97)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {N                   20817           12308            8509   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { t statistics in parentheses}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { * p<0.05, ** p<0.01, *** p<0.001}\cell
+\row}
+
+
+{\b\qc\line  }{\par}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { (1)             (2)             (3)   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {vidlab            0.00391***      0.00526***      0.00191***}\line
+\fs20 {                  (12.87)         (13.38)          (3.92)   }\line
+\fs20 {expe               0.0234***       0.0293***       0.0146***}\line
+\fs20 {                  (16.31)         (16.19)          (6.46)   }\line
+\fs20 {años_edu           0.102***       0.0904***        0.125***}\line
+\fs20 {                  (67.48)         (49.57)         (50.15)   }\line
+\fs20 {expe_2          -0.000238***    -0.000323***    -0.000113***}\line
+\fs20 {                 (-13.72)        (-15.08)         (-3.98)   }\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql { N                   20817           12308            8509   }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx3000\cell
+\row}
+\fs20 {t statistics in parentheses}\line
+\fs20 {* p<0.05, ** p<0.01, *** p<0.001}\line
+
+
+\writepositionforappend
+}}
